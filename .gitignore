@@ -12,6 +12,8 @@ TestResults
 *.suo
 *.user
 *.sln.docstates
+*.ncrunchsolution
+
 
 # Build results
 [Dd]ebug/
