@@ -57,7 +57,7 @@ namespace BootstrapMvcSample.Controllers
 
         /// <summary>
         ///Kata : N + 1 or some other unintended looping mishap can really hurt your site by stealing away cycles and speed. 
-        ///We are not exactaly dealing with n+1 here but what's happening is not really any better.
+        ///We are not exactly dealing with n+1 here but what's happening is not really any better.
     
         ///1. There is something fundamentally wrong with how data is being processed on this page - 
         ///There is a way to reduce the time it takes to process this page while working within the constraints of the 1 second sleep found in FormatValue.  Find it and fix it.
