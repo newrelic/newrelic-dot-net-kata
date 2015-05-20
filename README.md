@@ -17,7 +17,7 @@ Get the code. The code is waiting to be forked on [github](https://github.com/ne
 
 Step 4
 -------
-Install the newrelic nuget package:
+Install the New Relic nuget package:
 Install-Package NewRelicWindowsAzure
 
 Step 5
@@ -26,4 +26,4 @@ Fix the code / Solve as many of the Katas as you can. There are 7 distinct Katas
 
 Step 6
 -------
-Let us know how you did, what you liked or disliked, what helped you find problems or what were the challanges, what you like about New Relic or Windows Azure and what you don't - we just want to hear from you and see what we can do to get better. We'll even send you something for demonstrating your geek super powers when you complete the Kata - just provide us with your [thougths and a link to your forked repo](https://support.newrelic.com/home).
+Let us know how you did, what you liked or disliked, what helped you find problems or what were the challenges, what you like about New Relic or Windows Azure and what you don't - we just want to hear from you and see what we can do to get better. We'll even send you something for demonstrating your geek super powers when you complete the Kata - just provide us with your [thoughts and a link to your forked repo](https://support.newrelic.com/home).
