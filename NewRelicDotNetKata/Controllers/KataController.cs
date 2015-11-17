@@ -102,7 +102,7 @@ namespace BootstrapMvcSample.Controllers
             sw.Stop();
 
             //Example of calling the New Relic API to record custom response time metrics
-            NewRelic.Api.Agent.NewRelic.RecordResponseTimeMetric("Custom/FormatValueResponseTime", sw.ElapsedMilliseconds);
+            //NewRelic.Api.Agent.NewRelic.RecordResponseTimeMetric("Custom/FormatValueResponseTime", sw.ElapsedMilliseconds);
           
             return result;
 
@@ -148,7 +148,7 @@ namespace BootstrapMvcSample.Controllers
         /// <returns></returns>
         public ActionResult ThePrime(int val = 500) {
             //Calling the New Relic Api to set the Transaction name to something else
-            NewRelic.Api.Agent.NewRelic.SetTransactionName("OtherTransaction", "ThePrime");
+            //NewRelic.Api.Agent.NewRelic.SetTransactionName("OtherTransaction", "ThePrime");
 
             int current = 0;
             List<long> primes = new List<long>();
