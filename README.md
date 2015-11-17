@@ -1,3 +1,7 @@
+Join the discussion about .NET monitoring in the [New Relic Community Forum](https://discuss.newrelic.com/category/net-agent)! The Community Forum is a public platform to discuss and troubleshoot your New Relic toolset.
+
+If you need additional help, get support at [support.newrelic.com](https://support.newrelic.com).
+
 The New Relic .NET Kata
 =====================
 
